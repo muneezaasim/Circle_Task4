@@ -1,4 +1,4 @@
-# Class Task 4
+# Manual Deployment
 
 # 1. Cloning Git
 ![image](https://github.com/muneezaasim/Circle_Task4/assets/123086153/d513e687-8249-458f-91a7-9b63b11b3fbd)
@@ -21,3 +21,12 @@
 
 # 7. Output
 ![image](https://github.com/muneezaasim/Circle_Task4/assets/123086153/5a3b0f8a-fa99-404f-b609-afdbbfae6aac)
+
+
+# Automating Deployment
+# 1. Create a Bash Script File writing the following commands:
+![image](https://github.com/muneezaasim/Circle_Task4/assets/123086153/0a079ab7-986f-4573-bfd3-8f10ccfc4ea6)
+# Outcome
+![image](https://github.com/muneezaasim/Circle_Task4/assets/123086153/885420f3-1dbc-4109-aeb5-ac96b4e270a6)
+
+![image](https://github.com/muneezaasim/Circle_Task4/assets/123086153/322d09ae-02e6-446a-9b3d-c1ed444e375b)
